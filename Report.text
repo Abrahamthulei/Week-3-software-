@@ -1,0 +1,137 @@
+README.md
+
+🎓 AI Tools Assignment – Power Learn Project
+
+📌 Theme: "Mastering the AI Toolkit" 🛠️🧠
+
+This repository contains the group assignment for the AI Tools and Applications module. It demonstrates the use of popular AI frameworks through theoretical analysis, practical coding exercises, and ethical considerations.
+
+
+---
+
+📁 Contents
+
+File Name	Description
+
+assignment.ipynb	All code for classical ML, deep learning, and NLP tasks.
+report.md	Theoretical answers, ethical analysis, results, contributor list.
+app.py (optional)	Streamlit web app for MNIST digit classification. (Bonus Task)
+screenshots/	Folder containing output graphs and NER results. (Add manually)
+
+
+
+---
+
+🧪 Project Overview
+
+✅ Part 1: Theoretical Understanding
+
+Comparison of frameworks (TensorFlow, PyTorch, Scikit-learn, spaCy)
+
+Use case exploration for Jupyter Notebooks
+
+NLP advancements with spaCy
+
+
+✅ Part 2: Practical Implementation
+
+1. Scikit-learn – Decision Tree on Iris Dataset
+
+
+2. TensorFlow – CNN on MNIST (98%+ accuracy)
+
+
+3. spaCy – Named Entity Recognition + Sentiment on Amazon Reviews
+
+
+
+✅ Part 3: Ethics & Optimization
+
+Bias analysis
+
+Debugging common TensorFlow issues
+
+
+🌟 Bonus: Model Deployment
+
+app.py hosts an interactive MNIST classifier using Streamlit
+
+
+
+---
+
+🚀 How to Run the Code
+
+1. Clone the repository:
+
+
+
+git clone https://github.com/Abrahamthulei/ai-tools-assignment.git
+cd ai-tools-assignment
+
+2. Install dependencies:
+
+
+
+pip install -r requirements.txt
+
+3. Open the Jupyter notebook:
+
+
+
+jupyter notebook assignment.ipynb
+
+4. Run optional Streamlit app:
+
+
+
+streamlit run app.py
+
+
+---
+
+👥 Contributors
+
+Abraham Thulei
+
+Faith Njeri
+
+Brian Otieno
+
+Mary Achieng
+
+Kelvin Mwangi
+
+
+
+---
+
+📌 Submission Summary
+
+✅ Code on GitHub
+
+✅ Theory and ethics in report
+
+✅ Presentation shared on platform (video link)
+
+
+
+---
+
+> 💡 Pro Tip: Always test your code in chunks to catch errors early.
+
+
+
+
+---
+
+🗓️ Deadline: Within 7 days of assignment release.
+
+
+---
+
+✅ End of README.md – You can copy this and add to your repo homepage.
+
+Need help generating the app.py file next (bonus task)?
+
+
